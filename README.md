@@ -28,3 +28,7 @@ AI-powered interview preparation platform built with Python, Streamlit, Groq LLM
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Docker Support
+
+This application is fully containerized using Docker and can be deployed on Render, Railway, or any Docker-compatible platform.
