@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+groq
+python-dotenv
+pdfplumber
+pandas
+numpy
+scikit-learn
+sentence-transformers
+reportlab
+requests
